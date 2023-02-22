@@ -1,1 +1,1 @@
-# bincom_test of one programming skills.
+# bincom_test of one's programming skills.
